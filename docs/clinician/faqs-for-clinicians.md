@@ -4,7 +4,7 @@
 
 **A**: Paper or PDF charts required a human to plot the measurement and then read off the Centile. Digital Growth Charts automatically calculate Centiles and SDS (Standard Deviation Score) from the measurements, and plot these on a digital chart for you.
 
-Digital Growth Charts include recommended SNOMED-CT clinical terminology to guide persistence of the returned values
+Digital Growth Charts include recommended SNOMED-CT clinical terminology to guide persistence of the returned values.
 
 ## Q: How do I get the RCPCH Digital Growth Charts in my EPR?
 
