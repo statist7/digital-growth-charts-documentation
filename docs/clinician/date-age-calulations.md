@@ -26,4 +26,4 @@ Prior to digital growth charts, the convention was to apply gestational age corr
 
 Now that the correction is applied automatically by the API, the Project Board decided that it made no sense to stop the correction at arbitrary ages, and it should be applied throughout childhood. (Of course, the difference between corrected and uncorrected age becomes less apparent as the child gets older.)
 
-A further Project Board decision was to extend the gestational age correction to all children, including those born at term. This represents a departure from the previous practice of using a common reference for all term gestation babies, averaged across gestations 37-42 weeks. Now term babies, like preterm babies, are assessed using their gestational age.
+A further Project Board decision was to extend the gestational age correction to all children, including those born at term. This represents a departure from the previous practice of using a common reference for all term gestation babies, averaged across gestations 37-42 weeks. Now term babies, like preterm babies, can be assessed using their corrected age.
